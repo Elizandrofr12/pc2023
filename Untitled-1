@@ -2,7 +2,7 @@
 <html lang=“pt-br”>
        <head> 
             <meta charset=“UTF-8”>
-<tittle> Restaurante Vegetariano Alura</tittle>
+<tittle> BAK </tittle>
 <link rel="stylesheet" href="style.css">
 </head> 
 
@@ -14,21 +14,23 @@
 <div class="principal">
 <h2 class="titulo-centralizado"> HISTORIA DO BAK</p>
 
-<p><strong> 2022 </strong> BAK começou na B4stardosonde conquistou os titulo da liga NFA,sendo mvp da Season 2. </p>
+<p><strong> 2022 </strong>m 2018, o carioca entrou para o time da B4stardos, atual B4, e se mudou para São Paulo. Foi lá, junto da organização, que Bak ficou conhecido como o Rei da NFA, organizadora de torneios de Free Fire voltados para os emuladores. Além de ter conquistado as duas primeiras temporadas da Liga NFA, Bak ainda foi eleito o MVP (jogador mais valioso) da Season 2 e venceu a primeira edição da Copa NFA.</p>
 
-<p style=“font-size”:30px”> Nossa Missão é: <strong></strong> </p>
+<p style=“font-size”:30px”> Nossa Missão é: <strong>
+
+Nossa Missão é: O sucesso do jogador atraiu os olhares da LOUD, que em novembro de 2019 propôs que ele fizesse parte da NOISE, equipe de emuladores da organização. No time de Bruno “PlayHard” Oliveira, Bak obteve ainda mais sucesso, conquistando mais uma Liga NFA e uma Copa NFA, além da La Copa, da Liga LBR e da Liga BDL.</strong> </p>
 
 </div>
 
-<div class="beneficios">
+<div class="">
 
-<h3 class="titulo-centralizado">Beneficios</h3>
+<h3 class="titulo-centralizado">Lenda viva </h3>
 <ul>
-<li class="itens"> beneficio 1 </li>
-<li class="itens"> beneficio 2 </li>
-<li class="itens"> beneficio 3 </li>
+<li class="itens"> </li>
+<li class="itens"></li>
+<li class="itens"></li>
 </ul>
-<img src="C:/Users/Visitantes/Downloads/beneficio.jpg" class="imagembeneficios">
+<img>
 
 </div>
 </body>
